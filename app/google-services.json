@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "300223917697",
+    "project_id": "health-track-6992e",
+    "storage_bucket": "health-track-6992e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300223917697:android:54e6070f0a0fbb4c902780",
+        "android_client_info": {
+          "package_name": "ru.mrroot.health_track"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300223917697-e138bcsord9lffst266mgv8ptj6a8vkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJW53NF75rZMcViQbR2OIYY2eLXHUc7NA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300223917697-e138bcsord9lffst266mgv8ptj6a8vkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300223917697:android:e6e6b8ac55076511902780",
+        "android_client_info": {
+          "package_name": "ru.mrroot.healttrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300223917697-e138bcsord9lffst266mgv8ptj6a8vkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJW53NF75rZMcViQbR2OIYY2eLXHUc7NA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300223917697-e138bcsord9lffst266mgv8ptj6a8vkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

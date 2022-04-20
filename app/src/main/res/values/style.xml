@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="input_add_pulse">
+        <item name="android:layout_marginStart">20dp</item>
+        <item name="android:layout_marginTop">30dp</item>
+        <item name="android:layout_marginEnd">20dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="errorTextInputLayout">
+        <item name="android:textSize">@dimen/text_size_error_input_Layout</item>
+    </style>
+
+</resources>
